@@ -1,8 +1,8 @@
 ---
-title: ImJoy
-summary: An open-source computational platform for the deep learning era
+title: ShareLoc.XYZ
+summary: An open platform for sharing single-molecule localization microscopy data
 tags:
-  - AI
-date: 2022-01-01
-external_link: https://imjoy.io
+  - Microscopy
+date: 2018-01-01
+external_link: https://shareloc.xyz
 ---
