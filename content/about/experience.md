@@ -22,28 +22,63 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Researcher
+    company: KTH Royal Institute of Technology
+    company_url: 'https://www.kth.se/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Stockholm
+    date_start: '2020-01-01'
+    date_end: ''
+    description:  |2-
+      * BioImage Analysis
+      * Multi-omics data analysis
+      * AI-powered data-driven whole-cell modeling
+
+  - title: CEO
+    company: Amun AI AB
+    company_url: 'https://amun.ai'
+    company_logo: org-gc
+    location: Stockholm
+    date_start: '2021-12-01'
+    date_end: ''
+    description: |2-        
+      * Research data managment
+      * AI model and application serving
+      * Privacy-preserving AI
+
+  - title: Postdoctoral Researcher
+    company: KTH Royal Institute of Technology
+    company_url: 'https://www.kth.se/'
+    company_logo: org-x
+    location: Stockholm
+    date_start: '2019-01-01'
+    date_end: ''
+    description:  |2-
+      * BioImage Analysis
+      * AI infrastructure
+      * AI-powered data-driven whole-cell modeling
+
+  - title: Doctoral Student
+    company: Institut Pasteur
+    company_url: 'https://pasteur.fr'
+    company_logo: org-gc
+    location: Paris
+    date_start: '2015-09-01'
+    date_end: '2018-10-01'
+    description: |2-        
+      * Bio-imaging with artificial intelligence and super-resolution microscopy;
+      * PhD project: Accelerates super-resolution localization microscopy with deep learning.
+
+  - title: Engineer
+    company: Institut Pasteur
+    company_url: 'https://pasteur.fr'
+    company_logo: org-gc
+    location: Paris
+    date_start: '2014-10-01'
+    date_end: '2015-06-30'
+    description: |2-        
+      * Develop algorithms and software tools for chromosome architecture imaging
+      * Design tools for automated image analysis on the computing cluster
 
 design:
   columns: '1'

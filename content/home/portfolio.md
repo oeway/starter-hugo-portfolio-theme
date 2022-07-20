@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Artificial Intelligence
+      tag: AI
+    - name: Microscopy
+      tag: microscopy
+    - name: Cell Biology
+      tag: cell
 
 design:
   columns: '1'

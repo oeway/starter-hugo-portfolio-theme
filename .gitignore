@@ -1,6 +1,7 @@
 # IDEs
 .idea/
-
+*.lock
+go.sum
 # Hugo
 resources/
 public/
