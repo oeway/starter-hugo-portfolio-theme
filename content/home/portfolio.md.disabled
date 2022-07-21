@@ -32,8 +32,6 @@ content:
       tag: AI
     - name: Microscopy
       tag: microscopy
-    - name: Cell Biology
-      tag: cell
 
 design:
   columns: '1'

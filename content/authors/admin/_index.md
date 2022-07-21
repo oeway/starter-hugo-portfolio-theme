@@ -62,8 +62,10 @@ social:
 #email: ""
 ---
 
-I am a researcher at Science for Life Laboratory and KTH Royal Insitute of Technology, Stockholm, Sweden. I joined the [Emma Lundberg](https://www.scilifelab.se/researchers/emma-lundberg/)'s group since Jan. 2019, mainly working on developing new methods for image analysis and modeling, mostly based on deep learning.
+Wei OUYANG is a researcher in Prof. Lundberg’s group at the Science for Life Laboratory and KTH Royal Institute of Technology in Stockholm. He has a diverse background across several different fields including engineering, computer science and advanced microscopy imaging. 
 
-I obtained my Ph.D at Institut Pasteur, Paris where I developed deep learning based methods for advanced microscopy imaging.
+Dr. Ouyang obtained his PhD in computational image analysis at Institut Pasteur, Paris where he mainly focuses on applying deep learning for super-resolution microscopy. During this period, he developed a deep learning method called ANNA-PALM which massively accelerates super-resolution localization microscopy by 100x. To address the challenges in the dissemination of AI tools, he developed an open-source computational platform, [ImJoy](https://imjoy.io), which makes deep learning tools easier to build and more accessible to the user. He is actively involved in consortiums and community activities for promoting more open, scalable, accessible and reproducible scientific tools. Among them, he is leading the development of the [BioImage Model Zoo](https://bioimage.io) for sharing AI models in bioimage analysis.
+
+Dr. Ouyang is mainly interested in AI augmented microscopy imaging and data-driven whole-cell modeling.
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
